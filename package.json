@@ -1,0 +1,23 @@
+{
+  "name": "lambda-read",
+  "version": "1.0.0",
+  "description": "AWS Lambda read function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chris-Bortel-401n18-TA/lambda-read.git"
+  },
+  "author": "Chris Bortel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chris-Bortel-401n18-TA/lambda-read/issues"
+  },
+  "homepage": "https://github.com/Chris-Bortel-401n18-TA/lambda-read#readme",
+  "dependencies": {
+    "dynamoose": "^2.7.3",
+    "uuid": "^8.3.2"
+  }
+}
